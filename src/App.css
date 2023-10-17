@@ -1,0 +1,21 @@
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.cart{
+    border-style: groove;
+    gap: 20px;
+    width: 250px;
+    height: 330px;
+   margin-left: 20px;
+   margin-top: 20px;
+   text-align: center;
+}
+
+
+.images{
+    width: 200px;
+    height: 150px;    
+}
